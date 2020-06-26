@@ -75,7 +75,7 @@ The "Omni stack week 11" was taught by [Diego Fernandes](https://github.com/dieg
 
 ### License
 
-This project is under the MIT license. See the file [LICENSE] (LICENSE) for more details.
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
 
 ---
 
