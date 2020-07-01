@@ -10,7 +10,7 @@
 
 <br>
 
-### Tecnologies
+### technologies
 This project was developed with:
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://expo.io/)
